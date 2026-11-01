@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":1793032652,\"bundle\":\"bundle-1793032652.zip\",\"sha256\":\"82b4f75096636558db0368ba369da1a1f6e841d9ea4f49d9ce47a1c5ee214e16\",\"minNativeApi\":2,\"notes\":\"Published from a commit\",\"publishedAt\":\"2026-10-26T16:37:44.580Z\"}",
-  "signature": "7d09315d56c70acc23db15fa1ad3796ffc9f600106657eb90e3fd72046d11f71c023cbdc980a0197fce186c8e3c5cd17c1ad61432e3b9fe51e6e8bee70c99f09"
+  "payload": "{\"version\":1793547715,\"bundle\":\"bundle-1793547715.zip\",\"sha256\":\"74ea04abc4f1ea6e68f791c5aa1c1c6a25c398c753e68cefeb6ffa43024c6f03\",\"minNativeApi\":2,\"notes\":\"Published from a commit\",\"publishedAt\":\"2026-11-01T15:42:04.331Z\"}",
+  "signature": "be9c9af30d289c4a7afa7f3bc7111da1c273d656dea9320d352cc982b184059f6cb526976a0192039e8c95c3799eefa86111736787ecc8d6332651b3b7c56a09"
 }
