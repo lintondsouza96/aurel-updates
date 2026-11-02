@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":1793547715,\"bundle\":\"bundle-1793547715.zip\",\"sha256\":\"74ea04abc4f1ea6e68f791c5aa1c1c6a25c398c753e68cefeb6ffa43024c6f03\",\"minNativeApi\":2,\"notes\":\"Published from a commit\",\"publishedAt\":\"2026-11-01T15:42:04.331Z\"}",
-  "signature": "be9c9af30d289c4a7afa7f3bc7111da1c273d656dea9320d352cc982b184059f6cb526976a0192039e8c95c3799eefa86111736787ecc8d6332651b3b7c56a09"
+  "payload": "{\"version\":1793609522,\"bundle\":\"bundle-1793609522.zip\",\"sha256\":\"c2a8844d16975af5f8ca0000188d0553863c2c5b682379bff7d7b6011287a6d2\",\"minNativeApi\":2,\"notes\":\"Budgets add up from categories, donation share, investment targets, usual-day average, one-tap updates\",\"publishedAt\":\"2026-11-02T08:52:17.650Z\"}",
+  "signature": "b1167c79e619ca0b138454adb995dadc4086db66e2b08bf21d4a315265caa6f5ed29c08f2038b410c475cd821815126cc497d3a965bea5ef55d3ea9cda3b8e0f"
 }
